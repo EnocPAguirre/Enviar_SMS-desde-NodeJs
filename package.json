@@ -1,0 +1,19 @@
+{
+  "name": "nodesms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "enoc",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nexmo": "^2.4.0",
+    "nodemon": "^1.18.9",
+    "socket.io": "^2.2.0"
+  }
+}
